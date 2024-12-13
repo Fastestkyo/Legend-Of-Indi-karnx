@@ -79,6 +79,7 @@ class Overworld {
     // { type: "battle" }
     // { type: "changeMap", map: "DemoRoom"}
      { type: "textMessage", text: "upd-1: basic movement and cutscenes"}
+     { type: "textMessage", text: "wasd to move, enter to skip dialog"}
   ])
 
  }
